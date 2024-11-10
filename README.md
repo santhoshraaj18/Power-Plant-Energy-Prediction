@@ -1,4 +1,4 @@
-CCPP Energy Output Prediction
+CCPP Energy Output Prediction<br>
 This project focuses on predicting the power output (PE) of a Combined Cycle Power Plant (CCPP) based on various environmental and operational factors. The dataset used includes attributes like ambient temperature, pressure, humidity, and wind speed, and aims to predict the plant's energy output.
 
 Project Overview
